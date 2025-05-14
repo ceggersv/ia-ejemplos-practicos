@@ -11,7 +11,7 @@ Este repositorio no pretende ser una guía exhaustiva ni una referencia académi
 ## 📚 Tabla de Contenidos
 
 - [Clasificación con Scikit-learn](./01-clasificacion-scikit-learn/)
-- [Word Embeddings Visualization Tool](./LLM/)
+- [Word Embeddings Visualization Tool](./LLM-Embeddings)
 - [Regresión lineal simple](./02-regresion-lineal/)
 - [Redes neuronales con PyTorch](./03-redes-neuronales-pytorch/)
 - [Uso básico de modelos de lenguaje (LLMs)](./04-llms-ejemplos/)
