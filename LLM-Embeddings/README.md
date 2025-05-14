@@ -6,6 +6,12 @@
 
 A simple, educational tool for visualizing word embeddings in 2D space using pre-trained GloVe models. This project demonstrates how word vectors capture semantic relationships between words and can be used for teaching the concepts of word embeddings.
 
+## Ejecutar en Google Colab
+
+Haz clic en el siguiente botón para ejecutar este script en Google Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jQz9RmSBpkvme08EDIxJbAtR7lZwhPa1)
+
 ## 📋 Overview
 
 This project provides a Jupyter notebook that:
