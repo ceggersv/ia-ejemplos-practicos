@@ -1,3 +1,9 @@
+## Ejecutar en Google Colab
+
+Haz clic en el siguiente botón para ejecutar este script en Google Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19J6HYCFwkRHhrZKbYbtOJju3uVjpEDAu?usp=sharing)
+
 # 🌱 Introducción a la Clasificación con Scikit-learn
 
 En este cuaderno, vamos a construir nuestro **primer modelo de Machine Learning supervisado** usando Python y la biblioteca `scikit-learn`. Específicamente, resolveremos un problema de **clasificación**, en el que el objetivo es predecir **la categoría a la que pertenece un ejemplo**.
