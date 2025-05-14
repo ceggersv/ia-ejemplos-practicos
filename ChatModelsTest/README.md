@@ -2,6 +2,12 @@
 
 Este script en Python permite interactuar con un modelo de lenguaje de Google Gemini usando la API de `google.generativeai`.
 
+## Ejecutar en Google Colab
+
+Haz clic en el siguiente botón para ejecutar este script en Google Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e2GrY9cXbkKevw4JtXRPMuwUtcocrA8E#scrollTo=vgfmWywbV0b9)
+
 ## Requisitos
 
 - Python 3.7 o superior
