@@ -10,7 +10,7 @@ Este repositorio no pretende ser una guía exhaustiva ni una referencia académi
 
 ## 📚 Tabla de Contenidos
 
-- [Clasificación con Scikit-learn](./01-clasificacion-scikit-learn/)
+- [Clasificación con Scikit-learn](./ML-Clasificacion/)
 - [Word Embeddings Visualization Tool](./LLM-Embeddings)
 - [Regresión lineal simple](./02-regresion-lineal/)
 - [Redes neuronales con PyTorch](./03-redes-neuronales-pytorch/)
